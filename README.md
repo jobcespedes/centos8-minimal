@@ -1,4 +1,4 @@
-[![Docker Repository on Quay](https://quay.io/repository/krestomatio/centos8-minimal/status "Docker Repository on Quay")](https://quay.io/repository/krestomatio/centos8-minimal) [![Buy me a coffee](https://img.shields.io/badge/$-BuyMeACoffee-blue.svg)](https://www.buymeacoffee.com/jobcespedes)
+[![Docker Repository on Quay](https://quay.io/repository/krestomatio/centos8-minimal/status "Docker Repository on Quay")](https://quay.io/repository/krestomatio/centos8-minimal)
 
 This is a Centos 8 minimal container image like Fedora-minimal or UBI. TESTING only
 
